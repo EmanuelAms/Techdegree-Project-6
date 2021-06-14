@@ -1,0 +1,53 @@
+{
+    "projects": [
+        {
+            "id" : "1",
+            "project_name" : "Random Quote Generator",
+            "description" : "This project displays one of five random quotes on the page.",
+            "technologies" : ["HTML","CSS","Javascript","Functions","Objects","Arrays"],
+            "live_link" : "https://emanuelams.github.io/a_random_quote_generator-v1/",
+            "github_link" : "https://github.com/EmanuelAms/Techdegree-Project-1",
+            "image_urls" : ["/images/P1_0.jpg","/images/P1_1.jpg","/images/P1_2.jpg"]
+        },
+
+        {
+            "id" : "2",
+            "project_name" : "List Pagination and Filtering",
+            "description" : "This project arranges a list of student into several pages.",
+            "technologies" : ["HTML","CSS","Javascript","DOM Manipulation","Event listeners","Progressive enhancement"],
+            "live_link" : "https://emanuelams.github.io/list_pagination_and_filtering-v1/",
+            "github_link" : "https://github.com/EmanuelAms/Techdegree-Project-2",
+            "image_urls" : ["/images/P2_0.jpg","/images/P2_1.jpg","/images/P2_2.jpg"]
+        },
+
+        {
+            "id" : "3",
+            "project_name" : "Interactive Form",
+            "description" : "This project adds Javascript interactivity to a form, with some progressive enhancement.",
+            "technologies" : ["HTML","CSS","Javascript","Form","Progressive enhancement","Regex methods"],
+            "live_link" : "https://emanuelams.github.io/interactive-form-v2/",
+            "github_link" : "https://github.com/EmanuelAms/Techdegree-Project-3",
+            "image_urls" : ["/images/P3_0.jpg","/images/P3_1.jpg","/images/P3_2.jpg"]
+        },
+
+        {
+            "id" : "4",
+            "project_name" : "OOP Game Show App",
+            "description" : "This project is a guessing game making use of the class objects.",
+            "technologies" : ["HTML","CSS","Javascript","Class objects"],
+            "live_link" : "https://emanuelams.github.io/Techdegree-Project-4/",
+            "github_link" : "https://github.com/EmanuelAms/Techdegree-Project-4",
+            "image_urls" : ["/images/P4_0.jpg","/images/P4_1.jpg","/images/P4_2.jpg"]
+        },
+
+        {
+            "id" : "5",
+            "project_name" : "Public API Requests",
+            "description" : "This project updates a webpage dynamically with asynchronous code.",
+            "technologies" : ["HTML","CSS","Javascript","Asynchronous code","Fetch method","JSON method","Regex methods"],
+            "live_link" : "https://emanuelams.github.io/Techdegree-Project-5-redone/index.html",
+            "github_link" : "https://github.com/EmanuelAms/Techdegree-Project-5-redone",
+            "image_urls" : ["/images/P5_0.jpg","/images/P5_1.jpg","/images/P5_2.jpg"]
+        }
+    ]
+}
