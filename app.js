@@ -1,4 +1,4 @@
-// Seting up the server, routes and middleware // t
+// Seting up the server, routes and middleware //
 
 /*
 Requiring dependencies : 
