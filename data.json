@@ -5,7 +5,7 @@
             "project_name" : "Random Quote Generator",
             "description" : "This project displays one of five random quotes on the page.",
             "technologies" : ["HTML","CSS","Javascript","Functions","Objects","Arrays"],
-            "live_link" : "https://emanuelams.github.io/a_random_quote_generator-v1/",
+            "live_link" : "https://emanuelams.github.io/Techdegree-Project-1/",
             "github_link" : "https://github.com/EmanuelAms/Techdegree-Project-1",
             "image_urls" : ["/images/P1_0.jpg","/images/P1_1.jpg","/images/P1_2.jpg"]
         },
@@ -15,7 +15,7 @@
             "project_name" : "List Pagination and Filtering",
             "description" : "This project arranges a list of student into several pages.",
             "technologies" : ["HTML","CSS","Javascript","DOM Manipulation","Event listeners","Progressive enhancement"],
-            "live_link" : "https://emanuelams.github.io/list_pagination_and_filtering-v1/",
+            "live_link" : "https://emanuelams.github.io/Techdegree-Project-2/",
             "github_link" : "https://github.com/EmanuelAms/Techdegree-Project-2",
             "image_urls" : ["/images/P2_0.jpg","/images/P2_1.jpg","/images/P2_2.jpg"]
         },
@@ -25,7 +25,7 @@
             "project_name" : "Interactive Form",
             "description" : "This project adds Javascript interactivity to a form, with some progressive enhancement.",
             "technologies" : ["HTML","CSS","Javascript","Form","Progressive enhancement","Regex methods"],
-            "live_link" : "https://emanuelams.github.io/interactive-form-v2/",
+            "live_link" : "https://emanuelams.github.io/Techdegree-Project-3/",
             "github_link" : "https://github.com/EmanuelAms/Techdegree-Project-3",
             "image_urls" : ["/images/P3_0.jpg","/images/P3_1.jpg","/images/P3_2.jpg"]
         },
@@ -45,9 +45,59 @@
             "project_name" : "Public API Requests",
             "description" : "This project updates a webpage dynamically with asynchronous code.",
             "technologies" : ["HTML","CSS","Javascript","Asynchronous code","Fetch method","JSON method","Regex methods"],
-            "live_link" : "https://emanuelams.github.io/Techdegree-Project-5-redone/index.html",
-            "github_link" : "https://github.com/EmanuelAms/Techdegree-Project-5-redone",
+            "live_link" : "https://emanuelams.github.io/Techdegree-Project-5",
+            "github_link" : "https://github.com/EmanuelAms/Techdegree-Project-5",
             "image_urls" : ["/images/P5_0.jpg","/images/P5_1.jpg","/images/P5_2.jpg"]
+        },
+
+        {
+            "id" : "6",
+            "project_name" : "Static Node.js and Express Site",
+            "description" : "This project is a portfolio website created on a local server.",
+            "technologies" : ["HTML","CSS","Javascript","Node","Express","Pug","Routes","Middleware"],
+            "live_link" : "https://emanuelams.github.io/Techdegree-Project-6",
+            "github_link" : "https://github.com/EmanuelAms/Techdegree-Project-6",
+            "image_urls" : ["/images/P6_0.jpg","/images/P6_1.jpg","/images/P6_2.jpg"]
+        },
+
+        {
+            "id" : "7",
+            "project_name" : "React Gallery App",
+            "description" : "This project is an interactive image gallery created with the React library.",
+            "technologies" : ["HTML","CSS","Javascript","React","Axios","Stateful components","Stateless components"],
+            "live_link" : "https://emanuelams.github.io/Techdegree-Project-7",
+            "github_link" : "https://github.com/EmanuelAms/Techdegree-Project-7",
+            "image_urls" : ["/images/P7_0.jpg","/images/P7_1.jpg","/images/P7_2.jpg"]
+        },
+
+        {
+            "id" : "8",
+            "project_name" : "SQL Library Manager",
+            "description" : "This project allows the user to manage a database of books with the SQL library.",
+            "technologies" : ["HTML","CSS","Javascript","SQL","SQLite","Sequelize","Database models"],
+            "live_link" : "https://emanuelams.github.io/Techdegree-Project-8",
+            "github_link" : "https://github.com/EmanuelAms/Techdegree-Project-8",
+            "image_urls" : ["/images/P8_0.jpg","/images/P8_1.jpg","/images/P8_2.jpg"]
+        },
+
+        {
+            "id" : "9",
+            "project_name" : "REST API",
+            "description" : "This project sets up a back end server database for a school.",
+            "technologies" : ["HTML","CSS","Javascript","Authentication","Database validation","CRUD Operations"],
+            "live_link" : "https://emanuelams.github.io/Techdegree-Project-9",
+            "github_link" : "https://github.com/EmanuelAms/Techdegree-Project-9",
+            "image_urls" : ["/images/P9_0.jpg","/images/P9_1.jpg","/images/P9_2.jpg"]
+        },
+
+        {
+            "id" : "10",
+            "project_name" : "Full Stack App with React and a REST API",
+            "description" : "This project combines a back end server app with a front end client app to manage a school database.",
+            "technologies" : ["HTML","CSS","Javascript","CORS","Context API","HTTP Cookies"],
+            "live_link" : "https://emanuelams.github.io/Techdegree-Project-10",
+            "github_link" : "https://github.com/EmanuelAms/Techdegree-Project-10",
+            "image_urls" : ["/images/P10_0.jpg","/images/P10_1.jpg","/images/P10_2.jpg"]
         }
     ]
 }
