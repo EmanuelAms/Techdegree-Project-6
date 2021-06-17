@@ -50,6 +50,7 @@
             "image_urls" : ["/images/P5_0.jpg","/images/P5_1.jpg","/images/P5_2.jpg"]
         },
 
+        /*
         {
             "id" : "6",
             "project_name" : "Static Node.js and Express Site",
@@ -99,5 +100,6 @@
             "github_link" : "https://github.com/EmanuelAms/Techdegree-Project-10",
             "image_urls" : ["/images/P10_0.jpg","/images/P10_1.jpg","/images/P10_2.jpg"]
         }
+        */
     ]
 }
